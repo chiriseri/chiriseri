@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chiriseri
 - 👀 I’m interested in python programming and deep-learning
-- 🌱 I’m currently learning machine-learning and artificial intelligence
+- 🌱 I’m a data scientist and I use machine-learning algorithms and artificial intelligence to build predictive and descriptive models.
 - 💞️ I’m looking to collaborate on data science use case
-- 📫 you can reach me on Facebook account as Artwell Chiriseri
+- 📫 You can reach me on Facebook and LinkedIn as Artwell Chiriseri
 
 <!---
 chiriseri/chiriseri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
