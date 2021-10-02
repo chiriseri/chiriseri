@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chiriseri
 - 👀 I’m interested in python programming and deep-learning
 - 🌱 I’m a data scientist and I use machine-learning algorithms and artificial intelligence to build predictive and descriptive models.
-- 💞️ I’m looking to collaborate on data science use case
+- 💞️ I’m looking forward to collaborate in data science projects to deduce meaningful insights from structured and unstructured data.
+
 - 📫 You can reach me on Facebook and LinkedIn as Artwell Chiriseri
 
 <!---
